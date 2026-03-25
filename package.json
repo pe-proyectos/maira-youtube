@@ -1,0 +1,24 @@
+{
+  "name": "maira-youtube",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "preview": "remotion studio",
+    "render": "remotion render Short01 out/short-01.mp4"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3"
+  },
+  "peerDependencies": {
+    "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.438",
+    "@remotion/renderer": "^4.0.438",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.438"
+  }
+}
