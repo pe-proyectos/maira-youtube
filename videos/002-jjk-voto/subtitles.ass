@@ -1,0 +1,52 @@
+[Script Info]
+Title: Short 02 - JJK Voto Vinculante
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat Black,72,&H0000BFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,2,40,40,120,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.96,Default,,0,0,0,,{\k8}Me {\k12}vas {\k3}a {\k60}odiar,
+Dialogue: 0,0:00:01.00,0:00:01.83,Default,,0,0,0,,{\k19}pero {\k19}esto {\k26}pasó {\k5}de
+Dialogue: 0,0:00:01.88,0:00:03.43,Default,,0,0,0,,{\k35}verdad. {\k0}Un {\k19}grupo {\k10}de
+Dialogue: 0,0:00:03.49,0:00:04.86,Default,,0,0,0,,{\k25}fans {\k10}de {\k43}Jujutsu {\k43}Kaisen
+Dialogue: 0,0:00:05.00,0:00:06.62,Default,,0,0,0,,{\k73}estaban {\k12}tan {\k50}destruidos {\k12}con
+Dialogue: 0,0:00:06.67,0:00:07.82,Default,,0,0,0,,{\k10}el {\k26}final {\k5}de {\k55}Gege
+Dialogue: 0,0:00:07.88,0:00:08.85,Default,,0,0,0,,{\k17}que {\k38}hicieron {\k5}un {\k27}voto
+Dialogue: 0,0:00:08.90,0:00:10.77,Default,,0,0,0,,{\k67}vinculante {\k31}para {\k51}maldecir {\k11}a
+Dialogue: 0,0:00:10.82,0:00:12.45,Default,,0,0,0,,{\k34}Chainsaw {\k82}Man. {\k12}Como {\k16}si
+Dialogue: 0,0:00:12.50,0:00:13.97,Default,,0,0,0,,{\k27}fueran {\k50}hechiceros {\k58}reales.
+Dialogue: 0,0:00:13.97,0:00:15.33,Default,,0,0,0,,{\k64}Y {\k5}lo {\k17}más {\k32}loco
+Dialogue: 0,0:00:15.43,0:00:17.24,Default,,0,0,0,,{\k21}es {\k11}que {\k42}funcionó {\k82}porque
+Dialogue: 0,0:00:17.30,0:00:18.92,Default,,0,0,0,,{\k26}justo {\k48}después {\k32}el {\k26}final
+Dialogue: 0,0:00:18.94,0:00:20.27,Default,,0,0,0,,{\k5}de {\k35}Chainsaw {\k17}Man {\k55}dividió
+Dialogue: 0,0:00:20.43,0:00:22.35,Default,,0,0,0,,{\k16}a {\k19}toda {\k10}la {\k130}comunidad.
+Dialogue: 0,0:00:22.40,0:00:23.95,Default,,0,0,0,,{\k10}La {\k26}gente {\k33}decía {\k56}déjalo
+Dialogue: 0,0:00:23.99,0:00:25.79,Default,,0,0,0,,{\k43}cocinar {\k32}y {\k10}de {\k51}repente
+Dialogue: 0,0:00:25.91,0:00:27.86,Default,,0,0,0,,{\k75}Fujimoto {\k35}decidió {\k43}terminar {\k21}la
+Dialogue: 0,0:00:27.91,0:00:28.97,Default,,0,0,0,,{\k26}parte {\k24}2 {\k21}de {\k10}la
+Dialogue: 0,0:00:29.04,0:00:31.13,Default,,0,0,0,,{\k41}nada. {\k80}Los {\k25}fans {\k48}pasaron
+Dialogue: 0,0:00:31.16,0:00:32.73,Default,,0,0,0,,{\k5}de {\k49}defender {\k25}cada {\k57}capítulo
+Dialogue: 0,0:00:32.89,0:00:33.69,Default,,0,0,0,,{\k16}a {\k26}decir {\k11}que {\k10}se
+Dialogue: 0,0:00:33.73,0:00:36.41,Default,,0,0,0,,{\k43}rinden. {\k71}Uno {\k87}literalmente {\k25}dijo
+Dialogue: 0,0:00:36.45,0:00:38.25,Default,,0,0,0,,{\k11}que {\k63}Fujimoto {\k32}hizo {\k49}ragequit
+Dialogue: 0,0:00:38.36,0:00:39.60,Default,,0,0,0,,{\k44}como {\k10}si {\k32}fuera {\k17}una
+Dialogue: 0,0:00:39.66,0:00:42.16,Default,,0,0,0,,{\k42}partida {\k146}online. {\k0}Pero {\k47}piénsalo
+Dialogue: 0,0:00:42.18,0:00:43.84,Default,,0,0,0,,{\k5}un {\k78}segundo. {\k24}Un {\k29}fan
+Dialogue: 0,0:00:43.92,0:00:44.96,Default,,0,0,0,,{\k24}tan {\k35}dolido {\k12}con {\k16}su
+Dialogue: 0,0:00:45.02,0:00:46.71,Default,,0,0,0,,{\k32}serie {\k35}que {\k34}decide {\k43}maldecir
+Dialogue: 0,0:00:46.82,0:00:48.55,Default,,0,0,0,,{\k44}otra {\k71}eso {\k10}no {\k10}es
+Dialogue: 0,0:00:48.68,0:00:50.95,Default,,0,0,0,,{\k51}odio {\k35}eso {\k5}es {\k112}duelo.
+Dialogue: 0,0:00:51.00,0:00:52.15,Default,,0,0,0,,{\k10}Es {\k28}alguien {\k11}que {\k48}amó
+Dialogue: 0,0:00:52.20,0:00:53.50,Default,,0,0,0,,{\k26}tanto {\k32}algo {\k17}que {\k34}cuando
+Dialogue: 0,0:00:53.56,0:00:55.42,Default,,0,0,0,,{\k10}lo {\k67}decepcionó {\k83}necesitó {\k5}que
+Dialogue: 0,0:00:55.45,0:00:56.86,Default,,0,0,0,,{\k5}el {\k26}mundo {\k43}entero {\k48}sintiera
+Dialogue: 0,0:00:56.91,0:00:58.29,Default,,0,0,0,,{\k10}lo {\k82}mismo. {\k15}Y {\k15}si
+Dialogue: 0,0:00:58.35,0:00:59.33,Default,,0,0,0,,{\k17}eso {\k10}no {\k10}es {\k42}energía
+Dialogue: 0,0:00:59.37,0:01:01.01,Default,,0,0,0,,{\k52}maldita {\k32}real {\k37}no {\k10}sé
+Dialogue: 0,0:01:01.05,0:01:01.73,Default,,0,0,0,,{\k11}qué {\k10}lo {\k32}es.

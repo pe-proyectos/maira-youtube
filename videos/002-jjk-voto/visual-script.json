@@ -1,0 +1,83 @@
+{
+  "title": "Short 02 - JJK Voto Vinculante",
+  "resolution": [1080, 1920],
+  "fps": 30,
+  "segments": [
+    {
+      "start": 0.0, "end": 2.2,
+      "text": "Me vas a odiar, pero esto pasó de verdad.",
+      "image": "pngtuber-maira-serious.png",
+      "effect": "zoom_in_slow",
+      "note": "PNGtuber placeholder - usar expresion seria"
+    },
+    {
+      "start": 3.0, "end": 8.0,
+      "text": "Un grupo de fans de JJK estaban tan destruidos con el final de Gege...",
+      "image": "../../assets/jujutsu-kaisen/images/gojo-anime.jpg",
+      "effect": "ken_burns_pan"
+    },
+    {
+      "start": 8.0, "end": 11.0,
+      "text": "...que hicieron un voto vinculante para maldecir a Chainsaw Man.",
+      "image": "../../assets/jujutsu-kaisen/images/binding-vow-anime.jpg",
+      "effect": "zoom_in_fast"
+    },
+    {
+      "start": 11.0, "end": 14.0,
+      "text": "Como si fueran hechiceros reales.",
+      "image": "../../assets/misc/jjk-binding-vow-reddit.png",
+      "effect": "cut_hard"
+    },
+    {
+      "start": 14.0, "end": 20.0,
+      "text": "Y lo más loco es que funcionó porque justo después el final de CSM dividió a toda la comunidad.",
+      "image": "../../assets/chainsaw-man/images/denji-defeated.jpg",
+      "effect": "zoom_in_dramatic"
+    },
+    {
+      "start": 20.0, "end": 29.5,
+      "text": "La gente decía déjalo cocinar y de repente Fujimoto decidió terminar la parte 2 de la nada.",
+      "image": "../../assets/chainsaw-man/images/denji-bodies.jpg",
+      "effect": "pan_slow"
+    },
+    {
+      "start": 29.5, "end": 36.0,
+      "text": "Los fans pasaron de defender cada capítulo a decir que se rinden.",
+      "images": ["../../assets/chainsaw-man/images/denji.png", "../../assets/jujutsu-kaisen/images/yuji.png"],
+      "effect": "split_screen_fade"
+    },
+    {
+      "start": 36.0, "end": 41.6,
+      "text": "Uno literalmente dijo que Fujimoto hizo ragequit como si fuera una partida online.",
+      "image": "../../assets/misc/jjk-binding-vow-reddit.png",
+      "effect": "shake"
+    },
+    {
+      "start": 41.6, "end": 50.0,
+      "text": "Pero piénsalo un segundo. Un fan tan dolido con su serie que decide maldecir otra... eso no es odio, eso es duelo.",
+      "image": "../../assets/jujutsu-kaisen/images/sukuna-binding-vow-anime.jpg",
+      "image2": "../../assets/jujutsu-kaisen/images/binding-vow-manga.jpg",
+      "effect": "crossfade"
+    },
+    {
+      "start": 50.0, "end": 57.9,
+      "text": "Es alguien que amó tanto algo que cuando lo decepcionó necesitó que el mundo entero sintiera lo mismo.",
+      "image": "../../assets/jujutsu-kaisen/images/gojo-blindfold.png",
+      "image2": "../../assets/jujutsu-kaisen/images/yuji-finger.jpg",
+      "effect": "ken_burns_zoom_out"
+    },
+    {
+      "start": 57.9, "end": 61.7,
+      "text": "Y si eso no es energía maldita real, no sé qué lo es.",
+      "image": "../../assets/jujutsu-kaisen/images/sukuna.png",
+      "effect": "fade_to_black",
+      "bg": "#000000"
+    }
+  ],
+  "audio": {
+    "voice": "audio.mp3",
+    "bgm": "../../assets/jujutsu-kaisen/music/kaikai-kitan-cover-es.mp3",
+    "bgm_volume": 0.12,
+    "bgm_start_offset": 15
+  }
+}

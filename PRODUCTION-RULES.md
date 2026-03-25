@@ -55,8 +55,14 @@
 
 ## Assets
 - Organizados por tema: `assets/<anime>/images/`, `assets/<anime>/music/`
+- **Solo imágenes 4K o la mayor resolución disponible**
 - Descargar música con `scripts/y2mate-download.sh`
-- NO pushear videos grandes a GitHub
+
+## Almacenamiento
+- **NO pushear videos/renders a GitHub** (repo se infla y nunca olvida)
+- Renders finales → Cloudflare R2 o GitHub Releases
+- Limpiar archivos locales después de entregar (borrar versiones intermedias)
+- Solo mantener el render final local hasta que esté aprobado
 
 ## Reglas Técnicas
 - Scripts largos → correr en **background**, nunca bloquearse
